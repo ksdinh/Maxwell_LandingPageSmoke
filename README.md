@@ -4,7 +4,7 @@ This is a smoke test to validate data on Maxwell's landing page.  It is written 
 
 ### Instructions to run test
 
-To run locally you must first install Node on your local machine. After installing Node and it's dependencies you will need to install Cypress
+To run locally you must first install Node.js on your local machine. After installing Node and it's dependencies you will need to install Cypress
 
 1. Install Node Package Manager - `npm install` (install the requirements)
 2. After NPM and it's dependencies is installed you will need to install Cypress to your local Repository directory
